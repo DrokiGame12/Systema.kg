@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: serif;
+    font-size:20px;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+header {
+    background-color: black;
+    font-size:50px;
+    color:aqua;
+}
+
+.akel {
+    font-size:20;
+    color:lawngreen;
+}
+
+.safira {
+    font-size:12;
+    color:lawngreen;
+}
+
+footer {
+    background-color: black;
+    color: lawngreen;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left:20px;
+    text-align: left;
+}
+
+footer a {
+    background-color: lawngreen;
+    color: black;
+    margin-left: 40px;
+    padding:1%;
+    border-radius: 15px;
+    text-decoration: none;
+    border:1px solid darkgreen;
+}
