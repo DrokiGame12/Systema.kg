@@ -1,43 +1,30 @@
-body {
-    background-color: black;
-    font-family: serif;
-    font-size:20px;
-    margin-top: 1%;
-    margin-left: 2%;
-    margin-right: 2%;
-}
-
 header {
-    background-color: black;
-    font-size:50px;
-    color:aqua;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding: 5px 5px 60px 5px;
+	background-color: black;
 }
 
-.akel {
-    font-size:20;
-    color:lawngreen;
+header a {
+	color: black;
+	margin-left: 20px;
+	padding: 5px 7px 5px 7px;
+	text-decoration: none;
+	border-radius: 10px;
+	background-color: white;
 }
 
-.safira {
-    font-size:12;
-    color:lawngreen;
+header a:hover {
+	color: white;
+	margin-left: 20px;
+	padding: 5px 7px 5px 7px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 10px;
+	background-color: black;
 }
 
-footer {
-    background-color: black;
-    color: lawngreen;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left:20px;
-    text-align: left;
-}
-
-footer a {
-    background-color: lawngreen;
-    color: black;
-    margin-left: 40px;
-    padding:1%;
-    border-radius: 15px;
-    text-decoration: none;
-    border:1px solid darkgreen;
+h1 {
+	text-align: center;
 }
