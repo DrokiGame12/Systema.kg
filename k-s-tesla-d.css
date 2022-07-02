@@ -1,0 +1,137 @@
+body {
+	background-color: #FFBB00;
+}
+
+header {
+	color: black;
+	font-size: 50px;
+	background-color: #FF6600;
+	padding-bottom: 15px;
+}
+
+.logo {
+	width: 40px;
+	margin: 15px 0px -5px 25px;
+}
+
+.title {
+	margin-left: 485px;
+}
+
+nav {
+	text-align: center;
+	width: 85px;
+	height: 1175px;
+	background-color: #FF8800;
+}
+
+.later {
+	transition: 0.1s;
+	width: 55px;
+	height: 55px;
+	margin: 20px 15px 15px 15px;
+}
+
+.now {
+	width: 60px;
+	height: 60px;
+	margin: 17.5px 10px 12.5px 10px;
+}
+
+.later:hover {
+	width: 60px;
+	height: 60px;
+	margin: 17.5px 10px 12.5px 10px;
+}
+
+/*---------------------------*/
+
+main {
+	margin: -1175px 50px -5px 115px;
+}
+
+.buy {
+	margin-top: 25px;
+	margin-bottom: 50px;
+	border-radius: 50px;
+	float: left;
+	width: 1180px;
+    background-color: #FF8800;
+}
+
+.img {
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	padding: 5px;
+    width: 350px;
+    height: 350px;
+	background-color: #FF6600;
+}
+
+.model {
+	color: black;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 800px;
+	float: right;
+}
+
+main h1 {
+	margin-left: 225px;
+}
+
+main a {
+	color: white;
+	margin-left: 310px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 25px;
+	border: 5px solid #00046F;
+	background-color: #0006A8;
+}
+
+table {
+	text-align: center;
+	margin-left: 325px;
+}
+
+.table-title {
+	text-align: center;
+}
+
+td {
+	width: 250px;
+}
+
+.plus {
+	margin-top: 50px;
+	border-radius: 50px;
+	padding: 10px;
+	background-color: #FF8800;
+}
+
+main h2 {
+	text-align: center;
+}
+
+/*---------------------------*/
+
+footer {
+	color: white;
+	background-color: #FF6600;
+	width: 100%;
+	padding: 15px 0px 15px 0px;
+    margin: 50px 50px -5px 0px;
+}
+
+.connect {
+	transition: 0.08s;
+	margin: 10px 25px 10px 100px;
+	width: 50px;
+	height: 50px;
+}
+
+.connect:hover {
+	width: 70px;
+	height: 70px;
+	margin: 0px 15px 0px 90px;
+}
